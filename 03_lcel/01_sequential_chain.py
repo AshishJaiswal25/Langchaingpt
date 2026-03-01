@@ -25,7 +25,7 @@ model  = ChatOpenAI(model="gpt-4o-mini", temperature=0,
 parser = StrOutputParser()  # Converts AIMessage → plain string
 
 # -------------------------------------------------------
-# STEP 1: Your first chain
+# STEP 1: Your first ch
 # -------------------------------------------------------
 print("=" * 50)
 print("STEP 1: Your First LCEL Chain")
