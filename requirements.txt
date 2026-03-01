@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+pydantic
+gradio
+python-dotenv
